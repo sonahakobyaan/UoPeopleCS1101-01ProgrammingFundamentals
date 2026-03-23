@@ -1,0 +1,7 @@
+{
+    red: apple, cherry
+    yellow: banana, mango, lemon
+    green: grapes
+    blue: blueberry
+    purple: plum
+}

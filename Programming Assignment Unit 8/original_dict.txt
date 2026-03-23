@@ -1,0 +1,8 @@
+        apple: red
+        banana: yellow
+        cherry: red
+        mango: yellow
+        grapes: green
+        blueberry: blue
+        lemon: yellow
+        plum: purple
